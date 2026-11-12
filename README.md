@@ -1,35 +1,15 @@
 <div align="center">
 
-# 🏎️💨 NEON PURSUIT & ARCADE ZONE
+# 🎬 ARCADE CINEMA & CHASE ZONE
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,10,18,25&height=180&section=header&text=HIGH-SPEED%20CHASE%20ACTIVE&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Target%20Acquired%20•%20Evading%20Pursuit&descAlignY=65&descSize=16" width="100%" />
-</p>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3F3bnY3ZmNqeW5yOXVvNG5ucTZscGoxMHB3c3Ztc3J6YXZvZ3ZkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq0h93752f6J9tijrh/giphy.gif" width="100%" />
 
----
+### 🏎️ High-Speed Cyber Chase Sequence
 
-### 🚨 Live Sector Pursuit (Car Chase Animation)
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RkdnlsZzRoc3A1YndvNXVwbTNldnR1MXR1MWdkaThxOW9lZ3YyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwgsXF0aiGY/giphy.gif" width="100%" />
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Pursuit Animation" width="100%" />
+### 💥 Action Cutscene
 
----
-
-### 🎯 Combat HUD & Status
-
-| ⚡ SYSTEM POWER | 🚀 NITRO BOOST | 💥 WEAPONS LOCK | 🛡️ SHIELDS |
-| :---: | :---: | :---: | :---: |
-| ![100%](https://img.shields.io/badge/CPU-100%25_OVERCLOCKED-ff0055?style=for-the-badge&logo=icloud&logoColor=white) | ![Active](https://img.shields.io/badge/NITRO-ONLINE-00ffcc?style=for-the-badge&logo=rocket&logoColor=black) | ![Locked](https://img.shields.io/badge/TARGET-LOCKED-ffcc00?style=for-the-badge&logo=target&logoColor=black) | ![Active](https://img.shields.io/badge/SHIELD-98%25-00bfff?style=for-the-badge&logo=security&logoColor=white) |
-
----
-
-### 🕹️ Tactical Arcade Loadout
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=50&lines=Status%3A+Evading+Cyber-Police...;Weapon%3A+Plasma+Blaster+Active;Speed%3A+280+MPH+Highway+Chase" alt="Typing Action" />
-</p>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff0055&style=for-the-badge&label=CHASE+SURVIVORS" alt="Visitor Counter" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JqOWJrd3B1eWl0azVwNXUyeGdlazYyZjRwb2d2OWE2a2xsaTNweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" />
 
 </div>
